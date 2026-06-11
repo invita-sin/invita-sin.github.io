@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ivory: #fffff0;
+  --color-rose: #f4c6d0;
+  --color-champagne: #f7e7ce;
+  --color-charcoal: #36454f;
+  --color-gold-50: #fdf8e8;
+  --color-gold-100: #f9edc4;
+  --color-gold-200: #f3df96;
+  --color-gold-300: #eccd5e;
+  --color-gold-400: #d4af37;
+  --color-gold-500: #c49b2e;
+  --color-gold-600: #a37d24;
+  --color-gold-700: #7d5e1c;
+  --color-gold-800: #5c4415;
+  --color-gold-900: #3d2d0e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}

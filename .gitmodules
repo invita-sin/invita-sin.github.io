@@ -1,0 +1,3 @@
+[submodule "apps/template-midnight-romance"]
+	path = apps/template-midnight-romance
+	url = https://github.com/invita-sin/template-midnight-romance.git

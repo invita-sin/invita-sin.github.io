@@ -1,0 +1,46 @@
+[
+  {
+    "id": "midnight-romance",
+    "slug": "template-midnight-romance",
+    "name": "Midnight Romance",
+    "description": "Template elegan bernuansa gelap dengan sentuhan emas. Cocok untuk pernikahan malam yang mewah dan romantis.",
+    "category": "Modern",
+    "thumbnail": "/images/thumbnails/midnight-romance.jpg",
+    "demo": "https://invita-sin.github.io/template-midnight-romance",
+    "repository": "https://github.com/invita-sin/template-midnight-romance",
+    "status": "ready"
+  },
+  {
+    "id": "elegant",
+    "slug": "template-elegant",
+    "name": "Elegant Gold",
+    "description": "Template klasik dengan warna emas dan ivory. Memberikan kesan mewah dan timeless pada undangan pernikahan Anda.",
+    "category": "Elegant",
+    "thumbnail": "/images/thumbnails/elegant.jpg",
+    "demo": "#",
+    "repository": "#",
+    "status": "coming-soon"
+  },
+  {
+    "id": "minimalist",
+    "slug": "template-minimalist",
+    "name": "Minimalist White",
+    "description": "Desain bersih dan minimalis dengan palet monokrom. Fokus pada tipografi dan ruang kosong yang elegan.",
+    "category": "Minimalist",
+    "thumbnail": "/images/thumbnails/minimalist.jpg",
+    "demo": "#",
+    "repository": "#",
+    "status": "coming-soon"
+  },
+  {
+    "id": "floral",
+    "slug": "template-floral",
+    "name": "Floral Rose",
+    "description": "Template dengan aksen bunga mawar dan warna rose. Romantis dan feminin, cocok untuk pernikahan outdoor.",
+    "category": "Floral",
+    "thumbnail": "/images/thumbnails/floral.jpg",
+    "demo": "#",
+    "repository": "#",
+    "status": "coming-soon"
+  }
+]
