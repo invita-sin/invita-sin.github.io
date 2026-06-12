@@ -4,3 +4,6 @@
 [submodule "apps/template-elegant"]
 	path = apps/template-elegant
 	url = https://github.com/invita-sin/template-elegant.git
+[submodule "apps/template-minimalist"]
+	path = apps/template-minimalist
+	url = https://github.com/invita-sin/template-minimalist.git

@@ -28,9 +28,9 @@
     "description": "Desain bersih dan minimalis dengan palet monokrom. Fokus pada tipografi dan ruang kosong yang elegan.",
     "category": "Minimalist",
     "thumbnail": "/images/thumbnails/minimalist.jpg",
-    "demo": "#",
-    "repository": "#",
-    "status": "coming-soon"
+    "demo": "https://invita-sin.github.io/template-minimalist",
+    "repository": "https://github.com/invita-sin/template-minimalist",
+    "status": "ready"
   },
   {
     "id": "floral",
