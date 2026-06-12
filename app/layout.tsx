@@ -25,6 +25,9 @@ export const metadata: Metadata = {
   title: "Wedding Template Hub — Katalog Template Undangan Pernikahan",
   description:
     "Temukan template undangan pernikahan digital terbaik. Lihat demo, fork repository, dan deploy ke GitHub Pages dengan mudah.",
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Wedding Template Hub",
     description: "Katalog template undangan pernikahan digital.",
