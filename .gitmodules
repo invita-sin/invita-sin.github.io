@@ -8,5 +8,5 @@
 	path = apps/template-minimalist
 	url = https://github.com/invita-sin/template-minimalist.git
 [submodule "apps/template-floral"]
-	path = apps/template-dark-cat
-	url = https://github.com/invita-sin/template-dark-cat.git
+	path = apps/template-floral
+	url = https://github.com/invita-sin/template-floral.git
