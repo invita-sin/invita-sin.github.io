@@ -7,3 +7,6 @@
 [submodule "apps/template-floral"]
 	path = apps/template-floral
 	url = https://github.com/invita-sin/template-floral.git
+[submodule "apps/template-midnight-romance"]
+	path = apps/template-midnight-romance
+	url = https://github.com/invita-sin/template-midnight-romance.git
