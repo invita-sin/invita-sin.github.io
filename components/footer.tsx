@@ -13,7 +13,7 @@ export default function Footer() {
         </p>
         <div className="mt-4 pt-4 border-t border-gray-700">
           <p className="font-poppins text-gray-500 text-xs">
-            &copy; {new Date().getFullYear()} Wedding Template <link href="https://instagram.com/@akbar.sinyo" style="text-rose no-underline">@akbar.sinyo</link> Hub. All rights
+            &copy; {new Date().getFullYear()} Wedding Template <link href="https://instagram.com/@akbar.sinyo" className="text-rose no-underline">@akbar.sinyo</link> Hub. All rights
             reserved.
           </p>
         </div>
